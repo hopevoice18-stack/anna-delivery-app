@@ -1,0 +1,13 @@
+{
+  "appId": "com.annadelivery.tracking",
+  "appName": "Anna Delivery",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000
+    }
+  }
+}
