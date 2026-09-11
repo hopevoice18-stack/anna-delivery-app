@@ -1,0 +1,4 @@
+<string name="app_name">Anna Delivery</string>
+<string name="title_activity_main">Anna Delivery Live Tracking</string>
+<string name="package_name">com.annadelivery.tracking</string>
+<string name="custom_url_scheme">com.annadelivery.tracking</string>
